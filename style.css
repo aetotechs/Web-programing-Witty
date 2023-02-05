@@ -1,0 +1,23 @@
+#logo{
+    color:blue;
+    font-size: 60px;
+}
+body{
+ background-color: gray;
+ text-align: justify;
+}
+#gogo{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: inherit;
+}
+#ww{
+    color: aqua;
+}
+img{
+    width:20%;
+    height:30%;
+}
+
+    
