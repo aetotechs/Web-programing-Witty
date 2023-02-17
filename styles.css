@@ -1,0 +1,18 @@
+#logo{
+    color:rgb(255, 136, 0);
+    font-size: 60px;
+}
+body{
+ background-color: rgb(238, 213, 130);
+ text-align: justify;
+}
+#Rogo{
+    color: rgb(255, 0, 34);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: inherit;
+}
+img{
+    width:50%;
+    height:30%;
+}
